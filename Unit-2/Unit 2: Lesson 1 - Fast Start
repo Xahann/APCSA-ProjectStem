@@ -1,0 +1,24 @@
+Question 1
+Which of the following lines of code create a String variable z and set it equal to the word "Strings are String-y"?
+Answer:
+String z = "Strings are String-y";
+
+Question 2
+Consider the following code:
+
+String a = "determined";
+String b = "learner";
+System.out.println(a + "-" + b);
+What is the output?
+Answer:
+determined-learner 
+
+Question 3
+Consider the following code:
+
+int a = 43;
+int b = 17;
+System.out.println(a % b);
+What is the output?
+Answer:
+9
